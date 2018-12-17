@@ -11,7 +11,7 @@ videos and coding along, but later realized I was way over my head and some of t
 to put was stuff I had never seen before, this ultimatley caused me to start over
 
 **********Cosmetics
-change clouds, enemies, sound, jump, explorer
+change clouds, enemies, sound, jump, explorer, platforms, added portals
 
 **********Bugs
 will not read spritesheet... "name 'Spritesheet' is not defined"
